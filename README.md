@@ -3,6 +3,7 @@
   <code>👨‍💻 Opa, que bom te ver por aqui! Eu sou o Arthur! 🚀</code>
 </h1>
 
+![devgif](https://github.com/user-attachments/assets/5298c71a-317d-4690-8898-8cede3756a9c)
 
 ---
 <table>
