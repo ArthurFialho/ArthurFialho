@@ -3,8 +3,6 @@
   <code>👨‍💻 Opa, que bom te ver por aqui! Eu sou o Arthur! 🚀</code>
 </h1>
 
-![devgif](https://github.com/user-attachments/assets/5298c71a-317d-4690-8898-8cede3756a9c)
-
 ---
 <table>
   <tr>
@@ -79,6 +77,9 @@ Funções completas de CRUD, pesquisa dinâmica, estrutura em controller/service
 
 🔸 **[Portfólio 2025](https://portfolioarthurfialho.vercel.app)**  
 Design minimalista, foco em UI/UX e acessibilidade.
+
+
+![gifcoding](https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8)
 
 ---
 <div> 
