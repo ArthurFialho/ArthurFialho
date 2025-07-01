@@ -4,20 +4,15 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/arthurfialho">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfialho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/arthurfialho">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfialho&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/arthurfialho">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfialho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/arthurfialho">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfialho&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
+</div>
+
 
 ### 🛠️ Technologies and Skills
 
