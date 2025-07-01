@@ -1,9 +1,9 @@
-
 <h1 align="center">
-  <code>👨‍💻 Opa, que bom te ver por aqui! Eu sou o Arthur! 🚀</code>
+  <code>👨‍💻 hey, glad to have you here! I'm Arthur! 🚀</code>
 </h1>
 
 ---
+
 <table>
   <tr>
     <td>
@@ -19,9 +19,9 @@
   </tr>
 </table>
 
-### 🛠️ Tecnologias e Skills
+### 🛠️ Technologies and Skills
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
@@ -32,66 +32,68 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 
+## 🎯 About Me
 
-## 🎯 Sobre mim
+👋 My name is **Arthur Fialho**, a full stack developer passionate about building efficient digital experiences using **modern technologies** and **robust frameworks**.
 
-👋 Meu nome é **Arthur Fialho**, sou um desenvolvedor apaixonado por criar experiências digitais e soluções eficientes, com **tecnologia moderna** e **frameworks robustas**.
+💡 Currently studying **Computer Architecture and Networking**, and working as a **full-stack developer** focused on web solutions.
 
-💡 Atualmente, estudo **Redes e Arquitetura de Computadores** e atuo como **desenvolvedor full stack** com foco em soluções web.
-
-🌍 Me interesso por **desenvolvimento back e front end**, **testes e criação de api`s**, **automação**, **criar soluções robustas** e tecnologias que impactam a sociedade de forma positiva.
+🌍 Interested in **backend and frontend development**, **automated testing**, **API creation**, and building **scalable, impactful solutions**.
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Technologies I Work With
 
 ### 🌐 Front-end
-- React, Next.js, Vue
+- React, Next.js, Vercel
 - Tailwind CSS, DaisyUI
 
 ### 🧠 Back-end
-- Node.js, Express, PHP, Laravel, Typescript, Estudando Java + Spring Boot
+- Node.js, Express, PHP, Laravel, Typescript, Docker, learning Java + Spring Boot
 - PostgreSQL, MySQL, MongoDB
-- API REST, autenticação, MVC
+- REST APIs, authentication, MVC, Clean Architecture
 
-### 🧰 Outras Skills
-- Git e GitHub
-- Docker, CI/CD básico
+### 🧰 Other Skills
+- Git & GitHub
+- Basic CI/CD
 - C#, .NET, Blazor
-- Experiência com integração de APIs externas
+- Integration with external APIs and ERPs
 
 ---
 
-## ⚡ Projetos em destaque
+## ⚡ Featured Projects
 
-🔸 **[CRUD com pesquisa em tempo real](https://github.com/ArthurFialho/loginphpxampp)**  
+🔸 **[CRUD with real-time search](https://github.com/ArthurFialho/loginphpxampp)**  
 Stack: React + Tailwind + PHP + PostgreSQL  
-Funções completas de CRUD, pesquisa dinâmica, estrutura em controller/service.
+Full CRUD functionality, dynamic search, controller/service structure.
 
-🔸 **[Portfólio 2025](https://portfolioarthurfialho.vercel.app)**  
-Design minimalista, foco em UI/UX e acessibilidade.
-
+🔸 **[2025 Portfolio](https://portfolioarthurfialho.vercel.app)**  
+Minimalist design, focused on UI/UX and accessibility.
 
 ![gifcoding](https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8)
 
 ---
+<div align="center">
+<h2>## 📫 Contact Me!</h2>
+<h3>Let's build something amazing together!</h3>  
+</div>
+
+
+
 <div> 
   <a href="mailto:freelancejobslfn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laviniaferraz-v1ih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
 </picture>
-
