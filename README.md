@@ -81,7 +81,7 @@ Minimalist design, focused on UI/UX and accessibility.
 </div>
 
 <div align="center">
-<h1>## 📫 Contact Me!</h1>
+<h1> 📫 Contact Me!</h1>
 <h3>Let's build something amazing together!</h3>  
 </div>
 
