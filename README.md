@@ -1,15 +1,15 @@
 <h1 align="center">
-  <code>👨‍💻 hey, glad to have you here! I'm Arthur! 🚀</code>
+  <code>👨‍💻 Hey, glad to have you here! I'm Arthur! 🚀</code>
 </h1>
 
 ---
 
 <div align="center">
   <a href="https://github.com/arthurfialho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfialho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfialho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/arthurfialho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfialho&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfialho&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
 
@@ -73,6 +73,13 @@ Minimalist design, focused on UI/UX and accessibility.
 ![gifcoding](https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8)
 
 ---
+
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  
+</div>
+
 <div align="center">
 <h1>## 📫 Contact Me!</h1>
 <h3>Let's build something amazing together!</h3>  
@@ -86,6 +93,12 @@ Minimalist design, focused on UI/UX and accessibility.
 </div>
 
 ---
+<div align="center">  
+  
+  ![](https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
