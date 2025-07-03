@@ -54,8 +54,8 @@
 - REST APIs, authentication, MVC, Clean Architecture
 
 ### 🧰 Other Skills
-- Git & GitHub
-- Basic CI/CD
+- Git & GitHub, BitBucket
+- CI/CD
 - C#, .NET, Blazor
 - Integration with external APIs and ERPs
 
