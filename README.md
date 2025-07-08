@@ -36,7 +36,7 @@
 
 ## 🎯 About Me
 
-👋 My name is **Arthur Fialho**, a full stack developer passionate about building efficient digital experiences using **modern technologies** and **robust frameworks**.
+👋 My name is **Arthur Fialho**, a full stack developer passionate about building efficient digital solutions using **modern technologies** and **robust frameworks**.
 
 💡 I'm currently studying **Computer Architecture and Networking**, and working as a **full stack developer** focused on web solutions.
 
