@@ -51,7 +51,7 @@
 - Tailwind CSS, DaisyUI
 
 ### 🧰 Back-end
-- Node.js, Express, PHP, Laravel, TypeScript, Docker, learning Java + Spring Boot
+- Node.js, Express, PHP, Laravel, Javascript, TypeScript, Docker, learning Java + Spring Boot
 - PostgreSQL, MySQL, MongoDB
 - REST APIs, authentication, MVC, Clean Architecture
 
