@@ -98,9 +98,9 @@ Minimalist, accessibility-focused portfolio with strong UI/UX design principles.
 
 ---
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/> -->
+<!-- </div> -->
 
 ---
 <picture>
