@@ -51,13 +51,13 @@
 ## 🧠 Technologies I Work With
 
 ### 🌐 Front-end
-- React, Next.js, Vercel
-- Tailwind CSS, DaisyUI
+- React, Next.js, Vite, Vercel, learning Angular
+- Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
-- Node.js, Express, PHP, Laravel, Javascript, TypeScript, Docker, learning Java + Spring Boot
+- Node.js, Express, Laravel - PHP, Laravel, Javascript, TypeScript, Docker, learning Java + Spring Boot
 - PostgreSQL, MySQL, MongoDB
-- REST APIs, authentication, MVC, Clean Architecture
+- REST APIs, authentication, MVC, Clean Architecture, ERP`s integrations
 
 ### ⚙️ Other Skills
 - Git & GitHub, BitBucket
