@@ -50,11 +50,9 @@
 
 ## 🎯 About Me
 
-👋 My name is **Arthur Fialho**, a full stack developer passionate about building efficient digital solutions using **modern technologies** and **robust frameworks**.
+My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. I currently work at Azapfy, and my focus is on pursuing a career in the development area. I have knowledge in the areas of database, front-end and back-end, qualifying me as a full-stack developer.
 
-💡 I'm currently studying **Computer Architecture and Networking**, and working as a **intern back end developer** focused on web solutions.
-
-🌍 I’m passionate about both **backend and frontend**, with special interest in **automated testing**, **API development**, and building **scalable, impactful systems and designs**.
+I am currently studying Computer Architecture and Networking at Cotemig. Furthermore, I am a person with good communication skills, proactivity and easy learning.
 
 ---
 
