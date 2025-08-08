@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=521bd1&repeat=false&width=715&lines=Hey%2C+glad+to+have+you+here,+I%27m+Arthur%21" alt="Typing SVG" />
 </h1>
@@ -109,8 +107,8 @@ I am currently studying Computer Architecture and Networking at Cotemig. Further
 ### 🧠 Technologies I Work With
 
 ### 🌐 Front-end
-React, Next.js, Vite, Vercel, learning Angular
-Tailwind CSS, modern styling libraries
+React, Next.js, Vite, Vercel,
+Tailwind CSS, modern styling libraries, learning Angular
 
 ### 🧰 Back-end
 Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker, learning Java + Spring Boot
