@@ -111,14 +111,14 @@ React, Next.js, Vite, Vercel,
 Tailwind CSS, modern styling libraries, learning Angular
 
 ### 🧰 Back-end
-Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker, learning Java + Spring Boot
+Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker,
 PostgreSQL, MySQL, MongoDB
-REST APIs, authentication, MVC, Clean Architecture, ERP integrations
+REST APIs, authentication, MVC, Clean Architecture, ERP integrations, learning Java + Spring Boot
 
 ### ⚙️ Other Skills
-Git & GitHub, BitBucket
-CI/CD
-C#, .NET, Blazor
+Git & GitHub, BitBucket,
+CI/CD,
+C#, .NET, Blazor,
 Integration with external APIs and ERPs
 
 ---
