@@ -1,8 +1,8 @@
-<h1 align="center">
-  <code>👨‍💻 Hey, glad to have you here! I'm Arthur! 🚀</code>
-</h1>
 
----
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=521bd1&repeat=false&width=715&lines=Hey%2C+glad+to+have+you+here,+I%27m+Arthur%21" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/arthurfialho">
@@ -17,38 +17,88 @@
 
 ## 🛠️ Technologies and Skills
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" alt="JavaScript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="28" alt="NodeJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="28" alt="TypeScript" />
-      <img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" width="28" alt="NestJS"/>
-      <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" width="28" alt="NextJS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" alt="PHP" />
-      <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="28" alt="Laravel" />
-      <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" alt="Java" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="CSS3" />
-      <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="28" alt="TailwindCSS" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="28" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="28" alt="MongoDB" />
-      </div>
-    </td>
-<td align="center" width="400">
-  <img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" alt="coding-gif" width="300px" style="border-radius: 20px;" />
+<div align="center">
+
+<table>
+<tr>
+<td>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" alt="NodeJS" />
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" alt="TypeScript" />
+</td>
+<td align="center" width="96">
+<img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" width="48" alt="NestJS" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React" />
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" alt="PHP" />
+</td>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" alt="Laravel" />
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" />
+</td>
+<td align="center">
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" alt="TailwindCSS" />
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="48" alt="Git" />
+</td>
+</tr>
+</table>
+
 </td>
 
-  </tr>
+<!-- Coluna do GIF -->
+<td align="center">
+<img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="460" alt="Coding gif"/>
+</td>
+</tr>
 </table>
+
+</div>
+
 
 ---
 
-## 🎯 About Me
+### 🎯 About Me
 
 My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. I currently work at Azapfy, and my focus is on pursuing a career in the development area. I have knowledge in the areas of database, front-end and back-end, qualifying me as a full-stack developer.
 
@@ -56,29 +106,25 @@ I am currently studying Computer Architecture and Networking at Cotemig. Further
 
 ---
 
-## 🧠 Technologies I Work With
+### 🧠 Technologies I Work With
 
 ### 🌐 Front-end
-- React, Next.js, Vite, Vercel, learning Angular
-- Tailwind CSS, modern styling libraries
+React, Next.js, Vite, Vercel, learning Angular
+Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
-- Node.js, Express, Laravel - PHP, Laravel, Javascript, TypeScript, Docker, learning Java + Spring Boot
-- PostgreSQL, MySQL, MongoDB
-- REST APIs, authentication, MVC, Clean Architecture, ERP`s integrations
+Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker, learning Java + Spring Boot
+PostgreSQL, MySQL, MongoDB
+REST APIs, authentication, MVC, Clean Architecture, ERP integrations
 
 ### ⚙️ Other Skills
-- Git & GitHub, BitBucket
-- CI/CD
-- C#, .NET, Blazor
-- Integration with external APIs and ERPs
+Git & GitHub, BitBucket
+CI/CD
+C#, .NET, Blazor
+Integration with external APIs and ERPs
 
 ---
 
-
-
-
----
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
@@ -87,7 +133,7 @@ I am currently studying Computer Architecture and Networking at Cotemig. Further
 ---
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
-## 📫 Contact Me
+### 📫 Contact Me
 
 <div align="center">
   <h3>Let's build something amazing together!</h3>  
@@ -99,13 +145,10 @@ I am currently studying Computer Architecture and Networking at Cotemig. Further
   </a> 
 </div>
 
----
 
 <!-- <div align="center"> -->
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/> -->
 <!-- </div> -->
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
 
