@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Technologies and Skills
+### 🛠️ Technologies and Skills
 
 <div align="center">
 
