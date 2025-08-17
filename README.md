@@ -34,6 +34,7 @@
 <td align="center" width="96">
 <img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" width="35" alt="NestJS" />
 </td>
+</td>
 </tr>
 
 <tr>
@@ -41,22 +42,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React" />
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" alt="PHP" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NeXT_logo.svg/1680px-NeXT_logo.svg.png" width="35" alt="NextJS" />
 </td>
 <td align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="35" alt="Laravel" />
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java" />
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" alt="PHP" />
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java" />
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3" />
+<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="35" alt="Spring" />
 </td>
 <td align="center">
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="35" alt="TailwindCSS" />
@@ -64,6 +64,7 @@
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker" />
 </td>
+
 </tr>
 
 <tr>
