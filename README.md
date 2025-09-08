@@ -109,21 +109,20 @@ I am currently studying Computer Architecture and Networking at Cotemig. Further
 
 ### 🌐 Front-end
 React, Next.js, Vite, Vercel,
-Tailwind CSS, modern styling libraries, learning Angular
+Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
 Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker,
-PostgreSQL, MySQL, MongoDB
-REST APIs, authentication, MVC, Clean Architecture, ERP integrations, learning Java + Spring Boot
+SQL db's
+REST APIs, authentication, MVC, ERP integrations, learning Java + Spring Boot
 
 ### ⚙️ Other Skills
-Git & GitHub, BitBucket,
+Git & GitHub,
 CI/CD,
 C#, .NET, Blazor,
 Integration with external APIs and ERPs
 
 ---
-
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
