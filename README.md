@@ -108,13 +108,13 @@ I am currently studying Computer Architecture and Networking at Cotemig. Further
 ### 🧠 Technologies I Work With
 
 ### 🌐 Front-end
-React, Next.js, Vite, Vercel,
+React, Next.js, Vercel,
 Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
 Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker,
 SQL db's
-REST APIs, authentication, MVC, ERP integrations, learning Java + Spring Boot
+REST APIs, authentication, MVC, learning Java + Spring Boot
 
 ### ⚙️ Other Skills
 Git & GitHub,
@@ -135,7 +135,7 @@ Integration with external APIs and ERPs
 
 <div align="center">
   <h3>Let's build something amazing together!</h3>  
-  <a href="mailto:freelancejobslfn@gmail.com">
+  <a href="mailto:arthurfialhodeveloper@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/arthurfialhodev/" target="_blank">
