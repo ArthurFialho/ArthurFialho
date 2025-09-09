@@ -101,7 +101,7 @@
 
 My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. I currently work at Azapfy, and my focus is on pursuing a career in the development area. I have knowledge in the areas of database, front-end and back-end, qualifying me as a full-stack developer.
 
-I am currently studying Computer Architecture and Networking at Cotemig. Furthermore, I am a person with good communication skills, proactivity and easy learning.
+I am currently studying Computer Architecture and Networking at Cotemig. Furthermore, I am a person with excelent communication skills and proactivity.
 
 ---
 
@@ -113,8 +113,7 @@ Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
 Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker,
-SQL db's
-REST APIs, authentication, MVC, learning Java + Spring Boot
+SQL db's, MVC, learning Java + Spring Boot
 
 ### ⚙️ Other Skills
 Git & GitHub,
