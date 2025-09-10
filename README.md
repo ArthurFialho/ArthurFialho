@@ -113,10 +113,10 @@ Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
 Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker,
-SQL db's, MVC, learning Java + Spring Boot
+SQL db's, learning Java + Spring Boot
 
 ### ⚙️ Other Skills
-Git & GitHub,
+Git,
 CI/CD,
 C#, .NET, Blazor,
 Integration with external APIs and ERPs
