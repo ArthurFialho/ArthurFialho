@@ -126,6 +126,9 @@ Integration with external APIs and ERPs
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
 </div>
+<div align="center" >
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFialho&radius=16&theme=tokyo-night&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
