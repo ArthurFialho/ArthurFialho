@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=521bd1&repeat=false&width=715&lines=Hey%2C+glad+to+have+you+here,+I%27m+Arthur%21" alt="Typing SVG" />
 </h1>
 
+<!-- <div align="center"> --> 
+ <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=uozcszmbg7g621b3qtvpt9gud&unique=yes" alt="Spotify recently played" /> --> 
+<!--</div> --> 
+
 <div align="center">
   <a href="https://github.com/arthurfialho">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfialho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
