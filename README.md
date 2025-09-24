@@ -133,15 +133,19 @@ Integration with external APIs and ERPs
 ### 📫 Contact Me
 
 <div align="center">
-  <h3>Let's build something amazing together!</h3>  
-  <a href="mailto:arthurfialhodeveloper@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/arthurfialho_">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/arthurfialhodev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
+  <a href="mailto:arthurfialhodeveloper@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/arthurfialhodev">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/ArthurFialho">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
 </div>
-
 
 <!-- <div align="center"> -->
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/> -->
