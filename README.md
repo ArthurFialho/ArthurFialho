@@ -47,7 +47,7 @@
 </td>
 <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NeXT_logo.svg/1680px-NeXT_logo.svg.png" width="35" alt="NextJS" />
-</td>
+</td> 
 <td align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="35" alt="Laravel" />
 </td>
