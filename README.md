@@ -21,7 +21,7 @@
  
 <div align="center">
 
-<table>
+<table> 
 <tr>
 <td>
 <table>
