@@ -123,7 +123,7 @@ SQL db's, learning Java + Spring Boot and MongoDB
 Git,
 CI/CD,
 C# / .NET, Blazor,
-Integration with external APIs and ERPs
+Integration with external APIs and ERPs 
 
 ---
 
