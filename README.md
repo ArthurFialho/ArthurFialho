@@ -18,7 +18,7 @@
 ---
 
 ### 🛠️ Technologies and Skills
-
+ 
 <div align="center">
 
 <table>
