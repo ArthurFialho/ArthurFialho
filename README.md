@@ -102,8 +102,8 @@
 ---
 
 ### 🎯 About Me
-
-My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. My focus is on pursuing a career in the development area. I have knowledge in the areas of database, front-end and back-end, qualifying me as a full-stack developer.
+s
+My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. My focus is on pursuing a career in the development area. I have knowledge in the areas of front-end and back-end and databases, qualifying me as a full-stack developer.
 
 I am currently studying Computer Architecture and Networking at @Cotemig. Furthermore, I am a person with excelent communication skills and proactivity.
 
@@ -116,13 +116,13 @@ React, Next.js, Vercel,
 Tailwind CSS, modern styling libraries
 
 ### 🧰 Back-end
-Node.js, Express, Laravel (PHP), JavaScript, TypeScript, Docker,
-SQL db's, learning Java + Spring Boot
+Node.js, Laravel (PHP), JavaScript, TypeScript, Docker,
+SQL db's, learning Java + Spring Boot and MongoDB
 
 ### ⚙️ Other Skills
 Git,
 CI/CD,
-C#, .NET, Blazor,
+C# / .NET, Blazor,
 Integration with external APIs and ERPs
 
 ---
