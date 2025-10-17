@@ -1,19 +1,20 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=1000&color=521bd1&repeat=false&width=715&lines=Hey%2C+glad+to+have+you+here,+I%27m+Arthur%21" alt="Typing SVG" />
-</h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=521bd1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Arthur+Fialho!;Full-stack+Developer+🚀;" />
+</h1>
 <!-- <div align="center"> --> 
  <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=uozcszmbg7g621b3qtvpt9gud&unique=yes" alt="Spotify recently played" /> --> 
 <!--</div> --> 
  
 <div align="center">
-  <a href="https://github.com/arthurfialho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfialho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  </a> 
-  <a href="https://github.com/arthurfialho">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfialho&layout=compact&langs_count=6&theme=midnight-purple"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurFialho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
+</div>
+
 
 ---
 
@@ -158,5 +159,10 @@ Integration with external APIs and ERPs
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/> -->
 <!-- </div> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=guhpenido&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
