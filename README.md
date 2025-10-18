@@ -2,10 +2,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=521bd1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Arthur+Fialho!;Full-stack+Developer+🚀;" />
 </h1>
-<!-- <div align="center"> --> 
- <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=uozcszmbg7g621b3qtvpt9gud&unique=yes" alt="Spotify recently played" /> --> 
-<!--</div> --> 
- 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurFialho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
@@ -14,9 +11,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
 </div>
-
-
----
 
 ### 🛠️ Technologies and Skills
  
@@ -42,7 +36,7 @@
 </td>
 </tr>
 
- <tr>
+<tr>
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React" />
 </td>
@@ -99,16 +93,13 @@
 
 </div>
 
-
----
-
 ### 🎯 About Me
 
 My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. My focus is on pursuing a career in the development area. I have knowledge in the areas of front-end and back-end and databases, qualifying me as a full-stack developer.
 
 I am currently studying Computer Architecture and Networking at @Cotemig. Furthermore, I am a person with excelent communication skills and proactivity.
 
----
+
 
 ### 🧠 Technologies I Work With
 
@@ -126,7 +117,7 @@ CI/CD,
 C# / .NET, Blazor,
 Integration with external APIs and ERPs 
 
----
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=radical&no-frame=true&no-bg=false&margin-w=4"/>
@@ -135,7 +126,6 @@ Integration with external APIs and ERPs
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFialho&radius=16&theme=react-dark&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
----
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
 ### 📫 Contact Me
