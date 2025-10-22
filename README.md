@@ -12,7 +12,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
 </div>
 
-### 🛠️ Tech Stack
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
  
 <div align="center">
 
@@ -93,7 +97,11 @@
 
 </div>
 
-### 🎯 About Me
+<div align="center">
+
+## 🎯 About Me
+
+</div>
 
 My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. My focus is on pursuing a career in the development area. I have knowledge in the areas of front-end and back-end and databases, qualifying me as a full-stack developer.
 
@@ -128,8 +136,12 @@ Integration with external APIs and ERPs
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
-### 📫 Contact Me
 
+<div align="center">
+
+## 📫 Contact Me, Let`s build something amazing together
+
+</div>
 <div align="center">
   <a href="https://instagram.com/arthurfialho_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
