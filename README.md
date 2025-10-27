@@ -109,7 +109,12 @@ I am currently studying Computer Architecture and Networking at @Cotemig. Furthe
 
 
 
+
+<div align="center">
+
 # 🧠 Technologies I Work With
+
+</div>
 
 ### 🌐 Front-end
 React, Next.js, Vercel,
@@ -139,7 +144,7 @@ Integration with external APIs and ERPs
 
 <div align="center">
 
-## 📫 Contact Me, Let`s build something amazing together
+# 📫 Contact Me, Let`s build something amazing together
 
 </div>
 <div align="center">
