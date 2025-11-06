@@ -105,7 +105,7 @@
 
 My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Brazil. My focus is on pursuing a career in the development area. I have knowledge in the areas of front-end and back-end and databases, qualifying me as a full-stack developer.
 
-I am currently studying Computer Architecture and Networking at @Cotemig. Furthermore, i am a person with excelent communication skills and proactivity.
+I am currently studying Computer Architecture and Networking at @Cotemig and working as a freelance developer building amazing digital experiences for small and mid clients. Furthermore, i am a person with excelent communication skills and proactivity.
 
 
 
