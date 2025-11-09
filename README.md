@@ -108,6 +108,19 @@ My name is Arthur Fialho and I'm a full-stack developer from Belo Horizonte, Bra
 I am currently studying Computer Architecture and Networking at @Cotemig and working as a freelance developer building amazing digital experiences for small and mid clients. Furthermore, i am a person with excelent communication skills and proactivity.
 
 
+<div align="center">
+
+# 🎓 Academic Journey
+
+</div>
+
+<div align="center">
+
+| 🎯 **Degree** | 🏫 **Institution** | 📅 **Period** | 🎖️ **Status** |
+|---------------|-------------------|---------------|----------------|
+| **Technical Course in IT and Software Development** | COTEMIG | 2023 - 2025 | ✅ Completed |
+
+</div>
 
 
 <div align="center">
