@@ -9,7 +9,7 @@
 
 <div align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
-</div>
+ </div>
 
 <div align="center">
  
