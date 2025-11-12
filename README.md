@@ -180,7 +180,7 @@ Integration with external APIs and ERPs
 <!-- </div> -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=guhpenido&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+   <img src="https://komarev.com/ghpvc/?username=guhpenido&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
