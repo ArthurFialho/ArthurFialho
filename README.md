@@ -155,7 +155,7 @@ Integration with external APIs and ERPs
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
   
 </div>
-<div align="center">
+  <div align="center">
 
 # 📫 Contact Me, Let`s build something amazing together
 
