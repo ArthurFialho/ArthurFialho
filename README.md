@@ -67,7 +67,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker" />
 </td>
 
-</tr>
+ </tr>
 
 <tr>
 <td align="center">
@@ -85,7 +85,7 @@
 </tr>
 </table>
 
-</td>
+ </td>
 
 <!-- Coluna do GIF -->
 <td align="center">
