@@ -150,7 +150,7 @@ Integration with external APIs and ERPs
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFialho&radius=16&theme=react-dark&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-<div align="center">
+ <div align="center">
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
   
