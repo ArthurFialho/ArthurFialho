@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
 </div> 
 
-<div align="center">
+<div align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
  </div>
 
