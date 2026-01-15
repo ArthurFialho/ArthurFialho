@@ -37,7 +37,7 @@
 <img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" width="35" alt="NestJS" />
 </td>
 </td>
-</tr>
+</tr> 
 
 <tr>
 <td align="center">
