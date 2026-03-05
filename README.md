@@ -121,7 +121,7 @@ I am currently studying Computer Architecture and Networking at @Cotemig and wor
 | 🎯 **Degree** | 🏫 **Institution** | 📅 **Period** | 🎖️ **Status** |
 |---------------|-------------------|---------------|----------------|
 | **Technical Course in IT and Software Development** | COTEMIG | 2023 - 2025 | ✅ Completed |
-| **Computer Science Bachelor** | PUC Minas | 2026 - 2029 | ⌛ In Progress |
+| **Software Engineering Bachelor** | PUC Minas | 2026 - 2029 | ⌛ In Progress |
 </div>
 
 
