@@ -22,83 +22,48 @@
  
 <div align="center">
 
-<table> 
-<tr>
-<td>
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript" />
-</td>
-<td align="center" width="96">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="35" alt="NodeJS" />
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" alt="TypeScript" />
-</td>
-<td align="center" width="96">
-<img src="https://i.namu.wiki/i/X7RPRZJiL_bDk-b5yfaeCqEaINp3iwm7ngVhzN9LDg4hNjz0Bs3QTo7pgbCfGW3xp_sQZxMGUfnxBAXGNFwGKw.svg" width="35" alt="NestJS" />
-</td>
-</td>
-</tr> 
+<td align="center">
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" alt="React" />
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NeXT_logo.svg/1680px-NeXT_logo.svg.png" width="35" alt="NextJS" />
-</td> 
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="35" alt="Laravel" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" alt="PHP" />
-</tr>
+<div>
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
+</div>
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java" />
-</td>
-<td align="center">
-<img src="https://www.svgrepo.com/show/354380/spring-icon.svg" width="35" alt="Spring" />
-</td>
-<td align="center">
-<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="35" alt="TailwindCSS" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" alt="Docker" />
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60"/>
+  <img src="https://skillicons.dev/icons?i=php" height="60"/>
+  <img src="https://skillicons.dev/icons?i=go" height="60"/>
+</div>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60"/>
+</div>
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
+</div>
+
 </td>
 
- </tr>
+<td align="center">
+  <img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="380"/>
+</td>
 
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" alt="PostgreSQL" />
-</td>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" alt="MongoDB" />
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="35" alt="Git" />
-</td>
-</tr>
-</table>
-
- </td>
-
-<!-- Coluna do GIF -->
-<td align="center">
-<img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="380" alt="Coding gif"/>
-</td>
 </tr>
 </table>
 
 </div>
-
 <div align="center">
 
 # 🎯 About Me
