@@ -143,6 +143,9 @@ Integration with external APIs and ERPs
 <!-- <div align="center"> -->
 <!--   <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/> -->
 <!-- </div> -->
+<div>
+  
+</div>
 
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=guhpenido&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
