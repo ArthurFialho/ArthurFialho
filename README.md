@@ -67,11 +67,15 @@
 
 </div>
 
-Full Stack Developer with strong focus on backend architecture and real-world systems.
+<div align="center">
+
+  Full Stack Developer with strong focus on backend architecture and real-world systems.
 
 Experience building APIs, handling complex business rules and integrating services such as financial and logistics systems.
 
 Currently working as a full stack software engineer at SolarView and constantly improving my skills in scalable system design.
+
+</div>
 
 <div align="center">
 
