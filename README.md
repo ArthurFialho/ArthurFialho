@@ -69,7 +69,7 @@
 
 <div align="center">
 
-  Full Stack Developer with strong focus on backend architecture and real-world systems.
+  Full Stack Software Engineer with strong focus on backend architecture and real-world systems.
 
 Experience building APIs, handling complex business rules and integrating services such as financial and logistics systems.
 
