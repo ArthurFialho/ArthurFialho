@@ -85,7 +85,9 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
+
 
 **Databases & Messaging**
 
@@ -99,7 +101,6 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 </div>
 
