@@ -1,155 +1,134 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=521bd1&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Arthur+Fialho!;Full-stack+Engineer+🚀;" />
- </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&color=521bd1&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Arthur+Fialho;Full-Stack+Software+Engineer" />
+</div>
 
-<div align="center"> 
-  <img src="https://github-readme-stats-two-dun-39.vercel.app/api?username=ArthurFialho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-two-dun-39.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-</div> 
-<div align="center"> 
-  <img src="https://streak-stats.demolab.com?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" alt="streak stats" />
+---
+
+<div align="center">
+
+**Building software that scales. Designing systems that last.**
+
+</div>
+
+---
+
+## About
+
+Full-stack software engineer with a strong emphasis on backend architecture and distributed systems. Currently working at **SolarView**, building and maintaining production systems that involve complex business rules, financial integrations, and ci/cd workflows.
+
+My engineering focus goes beyond making things work, I'm concerned with *how* they're built: clean separation of concerns, appropriate design patterns, and database choices that match the problem, not just the familiarity.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats-two-dun-39.vercel.app/api?username=ArthurFialho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats-two-dun-39.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
 </div>
 
 <div align="center">
- 
-# 🛠️ Tech Stack  
+  <img src="https://streak-stats.demolab.com?user=ArthurFialho&theme=radical&hide_border=true&background=0D1117" height="150" />
+</div>
 
- </div>
- 
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<div>
-  <img src="https://skillicons.dev/icons?i=js" height="60"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="60"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60"/>
-</div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60"/>
-  <img src="https://skillicons.dev/icons?i=php" height="60"/>
-  <img src="https://skillicons.dev/icons?i=go" height="60"/>
-</div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60"/>
-</div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60"/>
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
-</div>
-
-</td>
-
-<td align="center">
-  <img src="https://github.com/user-attachments/assets/672ba84c-dcd6-4f4f-886e-0bf2a1b300b8" width="380"/>
-</td>
-
-</tr>
-</table>
-
-</div>
-<div align="center">
-
-# 🎯 About Me
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFialho&radius=16&theme=react-dark&area=true&order=5&hide_title=false" height="280" />
 </div>
 
 <div align="center">
 
-Passionate full stack software engineer with strong focus on backend architecture and real-world systems.
-
-Experience building APIs, handling complex business rules and integrating services such as financial and logistics systems.
-
-Currently working as a full stack software engineer at SolarView and constantly improving my skills in scalable system design.
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+---
+
+## Engineering Focus
+
+### System Design & Architecture
+- Layered and hexagonal architectures to enforce clear boundaries between domain, application, and infrastructure
+- Event-driven design with message brokers (RabbitMQ) for decoupled, resilient services
+- RESTful API design with consistency in contract, error handling, and versioning
+
+### Design Patterns
+- Application of patterns like Repository, Factory, Strategy, Observer, and CQRS where they reduce complexity — not as a checklist
+- Dependency injection and interface-driven development for testability and flexibility
+- Awareness of when a pattern adds structure vs. when it adds noise
+
+### Caching Strategies
+- Cache-aside and write-through patterns depending on read/write ratios
+- Identifying cache boundaries: what to cache, for how long, and what invalidation strategy makes sense
+- Avoiding premature caching and understanding its tradeoffs in distributed environments
+
+### Database Selection
+- Relational (MySQL, PostgreSQL) for transactional integrity, complex queries, and normalized data models
+- Document stores (MongoDB) for schema flexibility and hierarchical data
+- Understanding the CAP theorem in practice: choosing consistency vs. availability depending on the domain
+- Query optimization, indexing strategies, and avoiding N+1 patterns
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-# 🎓 Academic Journey
+**Languages**
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![PHP](https://skillicons.dev/icons?i=php)
+![Go](https://skillicons.dev/icons?i=go)
+
+**Frameworks & Runtimes**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+
+**Databases & Messaging**
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+
+**Infrastructure**
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 
 </div>
+
+---
+
+## Education
 
 <div align="center">
-
-| 🎯 **Degree** | 🏫 **Institution** | 📅 **Period** | 🎖️ **Status** |
-|---------------|-------------------|---------------|----------------|
-| **Software Engineering Bachelor** | PUC Minas | 2026 - 2029 | ⌛ In Progress |
-| **Technical Course in IT and Software Development** | COTEMIG | 2023 - 2025 | ✅ Completed |
-</div>
-
-
-<div align="center">
-
-# 🧠 Technologies I Work With
-
-</div>
-
-### 🌐 Front-end
-React, Next.js, Vercel,
-Tailwind CSS, modern styling libraries
-
-### 🧰 Back-end
-Node.js, Laravel (PHP), JavaScript, TypeScript, Docker,
-SQL db's, Cloudflare, RabbitMQ learning GO
-### ⚙️ Other Skills
-Git,
-CI/CD,
-C# / .NET, Blazor,
-Integration with external APIs and ERPs 
-
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-<div align="center" >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFialho&radius=16&theme=react-dark&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
- <div align="center">
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/ArthurFialho/ArthurFialho/output/github-contribution-grid-snake-dark.svg)
-  
+| Degree | Institution | Period | Status |
+|---|---|---|---|
+| Bachelor's in Software Engineering | PUC Minas | 2026 – 2029 | In Progress |
+| Technical Degree in IT & Software Development | COTEMIG | 2023 – 2025 | Completed |
+
 </div>
-  <div align="center">
 
-# 📫 Contact Me, Let`s build something amazing together
+## Contact
 
- </div>
 <div align="center">
-  <a href="https://instagram.com/arthurfialho_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:arthurfialhodeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-   </a>
-   <a href="https://linkedin.com/in/arthurfialhodev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/ArthurFialho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/arthurfialhodev)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:arthurfialhodeveloper@gmail.com)
+[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge)](https://github.com/ArthurFialho)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://instagram.com/arthurfialho_)
+
 </div>
 
-<!-- <div align="center"> -->
-<!--   <img src="https://github-contributor-stats.vercel.app/api?username=ArthurFialho&limit=5&theme=radical&combine_all_yearly_contributions=true"/> -->
-<!-- </div> -->
-<div>
-  
-</div>
+---
+
 
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=ArtburFialho&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
