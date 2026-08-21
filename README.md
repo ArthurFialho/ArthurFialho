@@ -55,7 +55,7 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 - RESTful API design with consistency in contract, error handling, and versioning
 
 ### Design Patterns
-- Application of patterns like Repository, Factory, Strategy, Observer, and CQRS where they reduce complexity — not as a checklist
+- Application of patterns like Repository, Factory, Strategy, Observer, and CQRS where they reduce complexity, not as a checklist
 - Dependency injection and interface-driven development for testability and flexibility
 - Awareness of when a pattern adds structure vs. when it adds noise
 
