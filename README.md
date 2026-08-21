@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&color=521bd1&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Arthur+Fialho;Full-Stack+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&color=521bd1&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Arthur+Fialho;Full-Stack+Software+Engineer" />
 </div>
 
 ---
@@ -22,9 +22,18 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 
 ## GitHub Activity
 
+<!--
+  ┌─ STATS + TOP LANGS ─────────────────────────────────────────────────────────
+  │ Hoje aponta para um mirror publico que esta FUNCIONANDO.
+  │ Limitacao: count_private=true nao conta seus commits privados (o token e de
+  │ outra pessoa). Assim que voce configurar PAT_1 na SUA instancia do Vercel,
+  │ troque o host abaixo por:
+  │   github-readme-stats-two-dun-39.vercel.app
+  └─────────────────────────────────────────────────────────────────────────────
+-->
 <div align="center">
-  <img src="https://github-readme-stats-two-dun-39.vercel.app/api?username=ArthurFialho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats-two-dun-39.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ArthurFialho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs?username=ArthurFialho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="150" />
 </div>
 
 <div align="center">
@@ -41,8 +50,16 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 
 </div>
 
+<!--
+  ┌─ TROPHY ────────────────────────────────────────────────────────────────────
+  │ github-profile-trophy.vercel.app (host original) esta DESATIVADO: HTTP 402
+  │ DEPLOYMENT_DISABLED. O host abaixo e um mirror vivo e respeita os params.
+  │ Para nao depender de terceiros: fork de ryo-ma/github-profile-trophy,
+  │ deploy no Vercel com env GITHUB_TOKEN, e troque o host aqui.
+  └─────────────────────────────────────────────────────────────────────────────
+-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArthurFialho&theme=react-dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ArthurFialho&theme=react-dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -92,7 +109,6 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 
-
 **Databases & Messaging**
 
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -113,7 +129,7 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 ## Education
 
 <div align="center">
-  
+
 | Degree | Institution | Period | Status |
 |---|---|---|---|
 | Bachelor's in Software Engineering | PUC Minas | 2026 – 2029 | In Progress |
@@ -133,7 +149,6 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 </div>
 
 ---
-
 
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=ArthurFialho&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
