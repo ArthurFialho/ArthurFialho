@@ -10,9 +10,9 @@
 
 </div>
 
----
 
-## About
+
+## About Me
 
 Full-stack software engineer with a strong emphasis on backend architecture and distributed systems. Currently working at **SolarView**, building and maintaining production systems that involve complex business rules, financial integrations, and ci/cd workflows.
 
@@ -64,31 +64,6 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 
 ---
 
-## Engineering Focus
-
-### System Design & Architecture
-- Layered and hexagonal architectures to enforce clear boundaries between domain, application, and infrastructure
-- Event-driven design with message brokers (RabbitMQ) for decoupled, resilient services
-- RESTful API design with consistency in contract, error handling, and versioning
-
-### Design Patterns
-- Application of patterns like Repository, Factory, Strategy, Observer, and CQRS where they reduce complexity, not as a checklist
-- Dependency injection and interface-driven development for testability and flexibility
-- Awareness of when a pattern adds structure vs. when it adds noise
-
-### Caching Strategies
-- Cache-aside and write-through patterns depending on read/write ratios
-- Identifying cache boundaries: what to cache, for how long, and what invalidation strategy makes sense
-- Avoiding premature caching and understanding its tradeoffs in distributed environments
-
-### Database Selection
-- Relational (MySQL, PostgreSQL) for transactional integrity, complex queries, and normalized data models
-- Document stores (MongoDB) for schema flexibility and hierarchical data
-- Understanding the CAP theorem in practice: choosing consistency vs. availability depending on the domain
-- Query optimization, indexing strategies, and avoiding N+1 patterns
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -126,17 +101,32 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 
 ---
 
+## Engineering Focus
+
+<div align="center">
+  
+| **Architecture**        | **Patterns**         | **Data & Performance**           |
+| ----------------------- | -------------------- | -------------------------------- |
+| Layered & Hexagonal     | Repository · Factory | MySQL · PostgreSQL               |
+| Event-driven · RabbitMQ | Strategy · Observer  | MongoDB · Indexing               |
+| REST APIs               | CQRS · DI            | Cache-aside · Write-through      |
+| Distributed Systems     | Interface-driven     | Query Optimization · N+1         |
+| Clear Domain Boundaries | Complexity-driven    | CAP · Consistency & Availability |
+</div>
+
+---
 ## Education
 
 <div align="center">
 
 | Degree | Institution | Period | Status |
 |---|---|---|---|
-| Bachelor's in Software Engineering | PUC Minas | 2026 – 2029 | In Progress |
+| Systems Analysis and Development | PUC Minas | 2026 – 2028 | In Progress |
 | Technical Degree in IT & Software Development | COTEMIG | 2023 – 2025 | Completed |
 
 </div>
 
+---
 ## Contact
 
 <div align="center">
