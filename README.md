@@ -41,7 +41,6 @@ My engineering focus goes beyond making things work, I'm concerned with *how* th
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurFialho&radius=16&theme=react-dark&area=true&order=5&hide_title=false" height="280" />
 </div>
 
 <div align="center">
